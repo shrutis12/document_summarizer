@@ -1,0 +1,21 @@
+create table if not exists sentences (
+    ID bigint,
+     sentence text,
+     sentence_length float(20,10),
+     sentence_positon float(20,10),
+     cue_phrases float(20,10),
+     title_resemblance float(20,10),
+	 selected tinyint,
+     primary key(ID));
+
+	 
+create table if not exists modified_sentences (
+    ID bigint,
+    sentence text
+    );
+	
+create table if not exists cosine_pairs (
+    ID1 bigint,
+    ID2 bigint,
+    value float(20,10),
+     );
