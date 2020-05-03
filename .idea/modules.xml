@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BE_proj.iml" filepath="$PROJECT_DIR$/BE_proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/database/database_connections/database_connections.iml" filepath="$PROJECT_DIR$/src/database/database_connections/database_connections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algorithms/graph_construction/graph_construction.iml" filepath="$PROJECT_DIR$/src/algorithms/graph_construction/graph_construction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/service/main/main.iml" filepath="$PROJECT_DIR$/src/service/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algorithms/mds/mds.iml" filepath="$PROJECT_DIR$/src/algorithms/mds/mds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algorithms/preprocessing/preprocessing.iml" filepath="$PROJECT_DIR$/src/algorithms/preprocessing/preprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algorithms/sentence_scoring/sentence_scoring.iml" filepath="$PROJECT_DIR$/src/algorithms/sentence_scoring/sentence_scoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algorithms/sentence_selection/sentence_selection.iml" filepath="$PROJECT_DIR$/src/algorithms/sentence_selection/sentence_selection.iml" />
+    </modules>
+  </component>
+</project>

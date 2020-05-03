@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.0.8-bin.jar tika-app-1.14.jar ws4j-
+ 1.0.1.jar summarizer.jar com/autosummary/main
+Main-Class: com.autosummary.main.Main
+
